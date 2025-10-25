@@ -1,4 +1,4 @@
-# Projeto Empresa de Gás - Lista 3 POO
+# Projeto Empresa de Gás
 
 Este projeto demonstra conceitos fundamentais de Programação Orientada a Objetos em Java, incluindo encapsulamento, herança, polimorfismo, composição e gerenciamento de estado através de um sistema de pedidos para empresa de gás.
 
